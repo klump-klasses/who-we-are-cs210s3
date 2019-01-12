@@ -1,1 +1,1 @@
-# s19_cpsc21000_001
+Modify cpsc21000001.html to include your picture and a short description of yourself.
