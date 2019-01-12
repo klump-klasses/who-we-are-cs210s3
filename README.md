@@ -1,1 +1,1 @@
-Modify cpsc21000001.html to include your picture and a short description of yourself.
+Modify index.html to include your picture and a short description of yourself.
